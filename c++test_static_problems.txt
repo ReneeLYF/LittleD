@@ -1,0 +1,1 @@
+[INFO] Tested files have high code duplication level, duplication cases over limit were ignored. You might want to reduce rule sensitivity for CDD-DUPC.
